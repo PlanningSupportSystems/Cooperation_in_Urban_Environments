@@ -55,3 +55,9 @@ Heatmaps: Visualize average entropy values for agents and places as heatmaps. He
 Load Node File: Load pre-processed node file data to optimize simulations. Node files contain processed node data derived from shapefiles, allowing for faster simulation initialization without reprocessing the map.
 
 Graphical Visualizations: Generate graphical representations of simulation results for analysis and visualization purposes. Graphs and plots provide visual insights into the dynamics and behavior of agents and places over time. The ABM simulation tool serves as a research instrument for studying urban dynamics, allowing researchers to analyze the interactions between agents and places in simulated city environments. By leveraging ABM techniques and entropy calculation, this tool facilitates the exploration of complex urban systems and emergent phenomena. By providing a user-friendly interface and comprehensive features, the ABM simulation tool empowers researchers to gain valuable insights into urban dynamics and contribute to the advancement of urban studies and planning.
+
+![Captura de tela 2024-10-23 142439](https://github.com/user-attachments/assets/3d7ed6f0-5fae-497e-809d-65ed02aa2d50)
+![Captura de tela 2024-10-23 142514](https://github.com/user-attachments/assets/331e9880-f081-4dd8-80fe-822ff017f230)
+![Captura de tela 2024-10-23 142547](https://github.com/user-attachments/assets/ad3af752-13cb-478d-965a-18ed8c3c45a9)
+![Captura de tela 2024-10-24 123451](https://github.com/user-attachments/assets/560bfccb-b63d-44ee-afc5-d2c7c74e66cb)
+![Captura de tela 2024-10-24 123531](https://github.com/user-attachments/assets/4d1982df-5ab2-4287-8148-261f382c74d2)
