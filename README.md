@@ -1,4 +1,4 @@
-# Simulations-of-Urban-Environments
+# Cooperation in Urban Environments
 
 This text is just a temporary description:
 
