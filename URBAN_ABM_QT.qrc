@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/URBAN_ABM_QT">
+        <file>ico.png</file>
+    </qresource>
+</RCC>
